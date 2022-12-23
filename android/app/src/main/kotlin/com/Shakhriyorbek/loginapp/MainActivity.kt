@@ -1,0 +1,6 @@
+package com.Shakhriyorbek.loginapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
